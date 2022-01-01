@@ -1,0 +1,20 @@
+﻿Planing of the project:
+
+What is needed:
+
+-Users firstName and age
+-today DateTime.Now
+-Year born
+
+
+Actions:
+
+Check IF firstName starts with "G"
+IF YES "Nice Name {name}"
+ELSE "Hello {name}"
+
+Age if ahe above 20
+"Welcome!"
+
+ELSE
+"Come baack in {x} years"
